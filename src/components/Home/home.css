@@ -1,0 +1,13 @@
+.sideBar {
+  width: 30%;
+  /* border: 2px solid black; */
+}
+.contentBar {
+  width: 70%;
+  /* border: 2px solid black; */
+}
+.homeContainer {
+  padding: 5px;
+  display: flex;
+  height: 100%;
+}

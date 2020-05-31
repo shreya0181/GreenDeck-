@@ -1,0 +1,442 @@
+log.js:24 [HMR] Waiting for update signal from WDS...
+index.js:1 Warning: Failed prop type: The prop `options` is marked as required in `FormSelect`, but its value is `undefined`.
+    in FormSelect (at Discount.js:16)
+    in Discount (at SideBar.js:15)
+    in div (at SideBar.js:14)
+    in div (created by Segment)
+    in Segment (at SideBar.js:13)
+    in div (at SideBar.js:12)
+    in SideBar (at Home.js:9)
+    in div (at Home.js:8)
+    in div (at Home.js:7)
+    in Home (at App.js:11)
+    in div (at App.js:9)
+    in App (at src/index.js:9)
+    in StrictMode (at src/index.js:8)
+console.<computed> @ index.js:1
+printWarning @ checkPropTypes.js:20
+checkPropTypes @ checkPropTypes.js:82
+validatePropTypes @ react.development.js:1714
+createElementWithValidation @ react.development.js:1813
+Discount @ Discount.js:15
+renderWithHooks @ react-dom.development.js:14803
+mountIndeterminateComponent @ react-dom.development.js:17482
+beginWork @ react-dom.development.js:18596
+beginWork$1 @ react-dom.development.js:23179
+performUnitOfWork @ react-dom.development.js:22154
+workLoopSync @ react-dom.development.js:22130
+performSyncWorkOnRoot @ react-dom.development.js:21756
+scheduleUpdateOnFiber @ react-dom.development.js:21188
+updateContainer @ react-dom.development.js:24373
+(anonymous) @ react-dom.development.js:24758
+unbatchedUpdates @ react-dom.development.js:21903
+legacyRenderSubtreeIntoContainer @ react-dom.development.js:24757
+render @ react-dom.development.js:24840
+./src/index.js @ index.js:7
+__webpack_require__ @ bootstrap:784
+fn @ bootstrap:150
+1 @ serviceWorker.js:141
+__webpack_require__ @ bootstrap:784
+checkDeferredModules @ bootstrap:45
+webpackJsonpCallback @ bootstrap:32
+(anonymous) @ main.chunk.js:1
+index.js:1 Warning: Failed prop type: The prop `options` is marked as required in `Select`, but its value is `undefined`.
+    in Select (created by FormField)
+    in FormField (created by FormSelect)
+    in FormSelect (at Discount.js:16)
+    in div (created by FormGroup)
+    in FormGroup (at Discount.js:15)
+    in form (created by Form)
+    in Form (at Discount.js:14)
+    in div (created by DropdownItem)
+    in DropdownItem (at Discount.js:13)
+    in div (created by DropdownMenu)
+    in DropdownMenu (at Discount.js:12)
+    in div (created by Dropdown)
+    in RefFindNode (created by Ref)
+    in Ref (created by Dropdown)
+    in Dropdown (at Discount.js:11)
+    in div (at Discount.js:10)
+    in Discount (at SideBar.js:15)
+    in div (at SideBar.js:14)
+    in div (created by Segment)
+    in Segment (at SideBar.js:13)
+    in div (at SideBar.js:12)
+    in SideBar (at Home.js:9)
+    in div (at Home.js:8)
+    in div (at Home.js:7)
+    in Home (at App.js:11)
+    in div (at App.js:9)
+    in App (at src/index.js:9)
+    in StrictMode (at src/index.js:8)
+console.<computed> @ index.js:1
+printWarning @ checkPropTypes.js:20
+checkPropTypes @ checkPropTypes.js:82
+validatePropTypes @ react.development.js:1714
+createElementWithValidation @ react.development.js:1813
+FormField @ FormField.js:111
+renderWithHooks @ react-dom.development.js:14803
+mountIndeterminateComponent @ react-dom.development.js:17482
+beginWork @ react-dom.development.js:18596
+beginWork$1 @ react-dom.development.js:23179
+performUnitOfWork @ react-dom.development.js:22154
+workLoopSync @ react-dom.development.js:22130
+performSyncWorkOnRoot @ react-dom.development.js:21756
+scheduleUpdateOnFiber @ react-dom.development.js:21188
+updateContainer @ react-dom.development.js:24373
+(anonymous) @ react-dom.development.js:24758
+unbatchedUpdates @ react-dom.development.js:21903
+legacyRenderSubtreeIntoContainer @ react-dom.development.js:24757
+render @ react-dom.development.js:24840
+./src/index.js @ index.js:7
+__webpack_require__ @ bootstrap:784
+fn @ bootstrap:150
+1 @ serviceWorker.js:141
+__webpack_require__ @ bootstrap:784
+checkDeferredModules @ bootstrap:45
+webpackJsonpCallback @ bootstrap:32
+(anonymous) @ main.chunk.js:1
+index.js:1 Warning: Failed prop type: Prop `children` in `Dropdown` conflicts with props: `selection`. They cannot be defined together, choose one or the other.
+    in Dropdown (created by Select)
+    in Select (created by FormField)
+    in div (created by FormField)
+    in FormField (created by FormSelect)
+    in FormSelect (at Discount.js:16)
+    in div (created by FormGroup)
+    in FormGroup (at Discount.js:15)
+    in form (created by Form)
+    in Form (at Discount.js:14)
+    in div (created by DropdownItem)
+    in DropdownItem (at Discount.js:13)
+    in div (created by DropdownMenu)
+    in DropdownMenu (at Discount.js:12)
+    in div (created by Dropdown)
+    in RefFindNode (created by Ref)
+    in Ref (created by Dropdown)
+    in Dropdown (at Discount.js:11)
+    in div (at Discount.js:10)
+    in Discount (at SideBar.js:15)
+    in div (at SideBar.js:14)
+    in div (created by Segment)
+    in Segment (at SideBar.js:13)
+    in div (at SideBar.js:12)
+    in SideBar (at Home.js:9)
+    in div (at Home.js:8)
+    in div (at Home.js:7)
+    in Home (at App.js:11)
+    in div (at App.js:9)
+    in App (at src/index.js:9)
+    in StrictMode (at src/index.js:8)
+console.<computed> @ index.js:1
+printWarning @ checkPropTypes.js:20
+checkPropTypes @ checkPropTypes.js:82
+validatePropTypes @ react.development.js:1714
+createElementWithValidation @ react.development.js:1813
+Select @ Select.js:12
+renderWithHooks @ react-dom.development.js:14803
+mountIndeterminateComponent @ react-dom.development.js:17482
+beginWork @ react-dom.development.js:18596
+beginWork$1 @ react-dom.development.js:23179
+performUnitOfWork @ react-dom.development.js:22154
+workLoopSync @ react-dom.development.js:22130
+performSyncWorkOnRoot @ react-dom.development.js:21756
+scheduleUpdateOnFiber @ react-dom.development.js:21188
+updateContainer @ react-dom.development.js:24373
+(anonymous) @ react-dom.development.js:24758
+unbatchedUpdates @ react-dom.development.js:21903
+legacyRenderSubtreeIntoContainer @ react-dom.development.js:24757
+render @ react-dom.development.js:24840
+./src/index.js @ index.js:7
+__webpack_require__ @ bootstrap:784
+fn @ bootstrap:150
+1 @ serviceWorker.js:141
+__webpack_require__ @ bootstrap:784
+checkDeferredModules @ bootstrap:45
+webpackJsonpCallback @ bootstrap:32
+(anonymous) @ main.chunk.js:1
+index.js:1 Warning: Failed prop type: Prop `selection` in `Dropdown` conflicts with props: `children`. They cannot be defined together, choose one or the other.
+    in Dropdown (created by Select)
+    in Select (created by FormField)
+    in div (created by FormField)
+    in FormField (created by FormSelect)
+    in FormSelect (at Discount.js:16)
+    in div (created by FormGroup)
+    in FormGroup (at Discount.js:15)
+    in form (created by Form)
+    in Form (at Discount.js:14)
+    in div (created by DropdownItem)
+    in DropdownItem (at Discount.js:13)
+    in div (created by DropdownMenu)
+    in DropdownMenu (at Discount.js:12)
+    in div (created by Dropdown)
+    in RefFindNode (created by Ref)
+    in Ref (created by Dropdown)
+    in Dropdown (at Discount.js:11)
+    in div (at Discount.js:10)
+    in Discount (at SideBar.js:15)
+    in div (at SideBar.js:14)
+    in div (created by Segment)
+    in Segment (at SideBar.js:13)
+    in div (at SideBar.js:12)
+    in SideBar (at Home.js:9)
+    in div (at Home.js:8)
+    in div (at Home.js:7)
+    in Home (at App.js:11)
+    in div (at App.js:9)
+    in App (at src/index.js:9)
+    in StrictMode (at src/index.js:8)
+console.<computed> @ index.js:1
+printWarning @ checkPropTypes.js:20
+checkPropTypes @ checkPropTypes.js:82
+validatePropTypes @ react.development.js:1714
+createElementWithValidation @ react.development.js:1813
+Select @ Select.js:12
+renderWithHooks @ react-dom.development.js:14803
+mountIndeterminateComponent @ react-dom.development.js:17482
+beginWork @ react-dom.development.js:18596
+beginWork$1 @ react-dom.development.js:23179
+performUnitOfWork @ react-dom.development.js:22154
+workLoopSync @ react-dom.development.js:22130
+performSyncWorkOnRoot @ react-dom.development.js:21756
+scheduleUpdateOnFiber @ react-dom.development.js:21188
+updateContainer @ react-dom.development.js:24373
+(anonymous) @ react-dom.development.js:24758
+unbatchedUpdates @ react-dom.development.js:21903
+legacyRenderSubtreeIntoContainer @ react-dom.development.js:24757
+render @ react-dom.development.js:24840
+./src/index.js @ index.js:7
+__webpack_require__ @ bootstrap:784
+fn @ bootstrap:150
+1 @ serviceWorker.js:141
+__webpack_require__ @ bootstrap:784
+checkDeferredModules @ bootstrap:45
+webpackJsonpCallback @ bootstrap:32
+(anonymous) @ main.chunk.js:1
+index.js:1 Warning: Using UNSAFE_componentWillMount in strict mode is not recommended and may indicate bugs in your code. See https://fb.me/react-unsafe-component-lifecycles for details.
+
+* Move code with side effects to componentDidMount, and set initial state in the constructor.
+
+Please update the following components: Dropdown, Search
+console.<computed> @ index.js:1
+printWarning @ react-dom.development.js:88
+error @ react-dom.development.js:60
+push../node_modules/react-dom/cjs/react-dom.development.js.ReactStrictModeWarnings.flushPendingUnsafeLifecycleWarnings @ react-dom.development.js:11353
+flushRenderPhaseStrictModeWarningsInDEV @ react-dom.development.js:23112
+commitRootImpl @ react-dom.development.js:22396
+unstable_runWithPriority @ scheduler.development.js:653
+runWithPriority$1 @ react-dom.development.js:11039
+commitRoot @ react-dom.development.js:22381
+finishSyncRender @ react-dom.development.js:21807
+performSyncWorkOnRoot @ react-dom.development.js:21793
+scheduleUpdateOnFiber @ react-dom.development.js:21188
+updateContainer @ react-dom.development.js:24373
+(anonymous) @ react-dom.development.js:24758
+unbatchedUpdates @ react-dom.development.js:21903
+legacyRenderSubtreeIntoContainer @ react-dom.development.js:24757
+render @ react-dom.development.js:24840
+./src/index.js @ index.js:7
+__webpack_require__ @ bootstrap:784
+fn @ bootstrap:150
+1 @ serviceWorker.js:141
+__webpack_require__ @ bootstrap:784
+checkDeferredModules @ bootstrap:45
+webpackJsonpCallback @ bootstrap:32
+(anonymous) @ main.chunk.js:1
+index.js:1 Warning: Using UNSAFE_componentWillReceiveProps in strict mode is not recommended and may indicate bugs in your code. See https://fb.me/react-unsafe-component-lifecycles for details.
+
+* Move data fetching code or side effects to componentDidUpdate.
+* If you're updating state whenever props change, refactor your code to use memoization techniques or move it to static getDerivedStateFromProps. Learn more at: https://fb.me/react-derived-state
+
+Please update the following components: Dropdown, Search
+console.<computed> @ index.js:1
+printWarning @ react-dom.development.js:88
+error @ react-dom.development.js:60
+push../node_modules/react-dom/cjs/react-dom.development.js.ReactStrictModeWarnings.flushPendingUnsafeLifecycleWarnings @ react-dom.development.js:11359
+flushRenderPhaseStrictModeWarningsInDEV @ react-dom.development.js:23112
+commitRootImpl @ react-dom.development.js:22396
+unstable_runWithPriority @ scheduler.development.js:653
+runWithPriority$1 @ react-dom.development.js:11039
+commitRoot @ react-dom.development.js:22381
+finishSyncRender @ react-dom.development.js:21807
+performSyncWorkOnRoot @ react-dom.development.js:21793
+scheduleUpdateOnFiber @ react-dom.development.js:21188
+updateContainer @ react-dom.development.js:24373
+(anonymous) @ react-dom.development.js:24758
+unbatchedUpdates @ react-dom.development.js:21903
+legacyRenderSubtreeIntoContainer @ react-dom.development.js:24757
+render @ react-dom.development.js:24840
+./src/index.js @ index.js:7
+__webpack_require__ @ bootstrap:784
+fn @ bootstrap:150
+1 @ serviceWorker.js:141
+__webpack_require__ @ bootstrap:784
+checkDeferredModules @ bootstrap:45
+webpackJsonpCallback @ bootstrap:32
+(anonymous) @ main.chunk.js:1
+index.js:1 Warning: findDOMNode is deprecated in StrictMode. findDOMNode was passed an instance of RefFindNode which is inside StrictMode. Instead, add a ref directly to the element you want to reference. Learn more about using refs safely here: https://fb.me/react-strict-mode-find-node
+    in div (created by Dropdown)
+    in RefFindNode (created by Ref)
+    in Ref (created by Dropdown)
+    in Dropdown (created by Select)
+    in Select (created by FormField)
+    in div (created by FormField)
+    in FormField (created by FormSelect)
+    in FormSelect (at Discount.js:16)
+    in div (created by FormGroup)
+    in FormGroup (at Discount.js:15)
+    in form (created by Form)
+    in Form (at Discount.js:14)
+    in div (created by DropdownItem)
+    in DropdownItem (at Discount.js:13)
+    in div (created by DropdownMenu)
+    in DropdownMenu (at Discount.js:12)
+    in div (created by Dropdown)
+    in RefFindNode (created by Ref)
+    in Ref (created by Dropdown)
+    in Dropdown (at Discount.js:11)
+    in div (at Discount.js:10)
+    in Discount (at SideBar.js:15)
+    in div (at SideBar.js:14)
+    in div (created by Segment)
+    in Segment (at SideBar.js:13)
+    in div (at SideBar.js:12)
+    in SideBar (at Home.js:9)
+    in div (at Home.js:8)
+    in div (at Home.js:7)
+    in Home (at App.js:11)
+    in div (at App.js:9)
+    in App (at src/index.js:9)
+    in StrictMode (at src/index.js:8)
+console.<computed> @ index.js:1
+printWarning @ react-dom.development.js:88
+error @ react-dom.development.js:60
+findHostInstanceWithWarning @ react-dom.development.js:24306
+findDOMNode @ react-dom.development.js:24804
+componentDidMount @ RefFindNode.js:40
+commitLifeCycles @ react-dom.development.js:19814
+commitLayoutEffects @ react-dom.development.js:22803
+callCallback @ react-dom.development.js:188
+invokeGuardedCallbackDev @ react-dom.development.js:237
+invokeGuardedCallback @ react-dom.development.js:292
+commitRootImpl @ react-dom.development.js:22541
+unstable_runWithPriority @ scheduler.development.js:653
+runWithPriority$1 @ react-dom.development.js:11039
+commitRoot @ react-dom.development.js:22381
+finishSyncRender @ react-dom.development.js:21807
+performSyncWorkOnRoot @ react-dom.development.js:21793
+scheduleUpdateOnFiber @ react-dom.development.js:21188
+updateContainer @ react-dom.development.js:24373
+(anonymous) @ react-dom.development.js:24758
+unbatchedUpdates @ react-dom.development.js:21903
+legacyRenderSubtreeIntoContainer @ react-dom.development.js:24757
+render @ react-dom.development.js:24840
+./src/index.js @ index.js:7
+__webpack_require__ @ bootstrap:784
+fn @ bootstrap:150
+1 @ serviceWorker.js:141
+__webpack_require__ @ bootstrap:784
+checkDeferredModules @ bootstrap:45
+webpackJsonpCallback @ bootstrap:32
+(anonymous) @ main.chunk.js:1
+webpackHotDevClient.js:138 ./src/components/SideBar/SideBar.js
+  Line 1:17:   'Component' is defined but never used                                             no-unused-vars
+  Line 4:10:   'Search' is defined but never used                                                no-unused-vars
+  Line 9:7:    'percent' is assigned a value but never used                                      no-unused-vars
+  Line 31:11:  Headings must have content and the content must be accessible by a screen reader  jsx-a11y/heading-has-content
+printWarnings @ webpackHotDevClient.js:138
+handleWarnings @ webpackHotDevClient.js:143
+push../node_modules/react-dev-utils/webpackHotDevClient.js.connection.onmessage @ webpackHotDevClient.js:210
+webpackHotDevClient.js:138 ./src/components/Content/Content.js
+  Line 1:17:   'useState' is defined but never used          no-unused-vars
+  Line 1:27:   'useEffect' is defined but never used         no-unused-vars
+  Line 3:10:   'Card' is defined but never used              no-unused-vars
+  Line 3:16:   'Icon' is defined but never used              no-unused-vars
+  Line 3:22:   'Image' is defined but never used             no-unused-vars
+  Line 3:29:   'Grid' is defined but never used              no-unused-vars
+  Line 6:7:    'options' is assigned a value but never used  no-unused-vars
+  Line 43:36:  'refetch' is assigned a value but never used  no-unused-vars
+printWarnings @ webpackHotDevClient.js:138
+handleWarnings @ webpackHotDevClient.js:143
+push../node_modules/react-dev-utils/webpackHotDevClient.js.connection.onmessage @ webpackHotDevClient.js:210
+webpackHotDevClient.js:138 ./src/components/Header/Header.js
+  Line 1:17:  'Component' is defined but never used  no-unused-vars
+printWarnings @ webpackHotDevClient.js:138
+handleWarnings @ webpackHotDevClient.js:143
+push../node_modules/react-dev-utils/webpackHotDevClient.js.connection.onmessage @ webpackHotDevClient.js:210
+webpackHotDevClient.js:138 ./src/components/Home/Home.js
+  Line 1:17:  'Component' is defined but never used  no-unused-vars
+printWarnings @ webpackHotDevClient.js:138
+handleWarnings @ webpackHotDevClient.js:143
+push../node_modules/react-dev-utils/webpackHotDevClient.js.connection.onmessage @ webpackHotDevClient.js:210
+webpackHotDevClient.js:138 ./src/components/Discount/Discount.js
+  Line 1:17:  'Component' is defined but never used  no-unused-vars
+printWarnings @ webpackHotDevClient.js:138
+handleWarnings @ webpackHotDevClient.js:143
+push../node_modules/react-dev-utils/webpackHotDevClient.js.connection.onmessage @ webpackHotDevClient.js:210
+webpackHotDevClient.js:132 There were more warnings in other files.
+You can find a complete log in the terminal.
+printWarnings @ webpackHotDevClient.js:132
+handleWarnings @ webpackHotDevClient.js:143
+push../node_modules/react-dev-utils/webpackHotDevClient.js.connection.onmessage @ webpackHotDevClient.js:210
+localhost/:1 Access to XMLHttpRequest at 'https://greendeck-datasets-2.s3.amazonaws.com/netaporter_gb_similar.json' from origin 'http://localhost:3001' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+xhr.js:178 GET https://greendeck-datasets-2.s3.amazonaws.com/netaporter_gb_similar.json net::ERR_FAILED
+dispatchXhrRequest @ xhr.js:178
+xhrAdapter @ xhr.js:12
+dispatchRequest @ dispatchRequest.js:52
+Promise.then (async)
+request @ Axios.js:61
+wrap @ bind.js:9
+_callee2$ @ index.js:111
+tryCatch @ runtime.js:45
+invoke @ runtime.js:274
+prototype.<computed> @ runtime.js:97
+asyncGeneratorStep @ asyncToGenerator.js:3
+_next @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+_cacheAdapter @ index.js:128
+cacheAdapter @ index.js:88
+dispatchRequest @ dispatchRequest.js:52
+Promise.then (async)
+request @ Axios.js:61
+wrap @ bind.js:9
+_callee3$ @ index.js:175
+tryCatch @ runtime.js:45
+invoke @ runtime.js:274
+prototype.<computed> @ runtime.js:97
+asyncGeneratorStep @ asyncToGenerator.js:3
+_next @ asyncToGenerator.js:25
+(anonymous) @ asyncToGenerator.js:32
+(anonymous) @ asyncToGenerator.js:21
+_request @ index.js:211
+request @ index.js:160
+executeRequestWithCache @ index.js:215
+executeRequest @ index.js:226
+(anonymous) @ index.js:260
+commitHookEffectListMount @ react-dom.development.js:19731
+commitPassiveHookEffects @ react-dom.development.js:19769
+callCallback @ react-dom.development.js:188
+invokeGuardedCallbackDev @ react-dom.development.js:237
+invokeGuardedCallback @ react-dom.development.js:292
+flushPassiveEffectsImpl @ react-dom.development.js:22853
+unstable_runWithPriority @ scheduler.development.js:653
+runWithPriority$1 @ react-dom.development.js:11039
+flushPassiveEffects @ react-dom.development.js:22820
+performSyncWorkOnRoot @ react-dom.development.js:21737
+(anonymous) @ react-dom.development.js:11089
+unstable_runWithPriority @ scheduler.development.js:653
+runWithPriority$1 @ react-dom.development.js:11039
+flushSyncCallbackQueueImpl @ react-dom.development.js:11084
+flushSyncCallbackQueue @ react-dom.development.js:11072
+unbatchedUpdates @ react-dom.development.js:21909
+legacyRenderSubtreeIntoContainer @ react-dom.development.js:24757
+render @ react-dom.development.js:24840
+./src/index.js @ index.js:7
+__webpack_require__ @ bootstrap:784
+fn @ bootstrap:150
+1 @ serviceWorker.js:141
+__webpack_require__ @ bootstrap:784
+checkDeferredModules @ bootstrap:45
+webpackJsonpCallback @ bootstrap:32
+(anonymous) @ main.chunk.js:1
+Show 27 more frames
